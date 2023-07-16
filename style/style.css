@@ -1,0 +1,56 @@
+html {
+    background-color: black;
+  }
+body {
+  background: rgb(152, 199, 214);
+  margin: 60px 30% 60px 30%;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+main {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+div {
+  border: rgb(204, 27, 27) 3px solid;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px 0 10px 0;
+}
+header {
+  text-align: center;
+  background: rgb(38, 14, 82);
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin: 5px;
+  background-image: linear-gradient(to top, red, blue);
+}
+
+p {
+  font-family: tahoma;
+  color: darkmagenta;
+}
+a {
+  color: rgb(156, 67, 35);
+}
+h1 {
+  color: rgb(224, 252, 196);
+  font-size: 50px;
+}
+h2 {
+  color: rgb(224, 252, 196);
+  background: rgb(38, 14, 82);
+  padding: 6px 0 6px 5px ;
+}
+footer {
+  text-align: center;
+  background: rgb(38, 14, 82);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 5px;
+}
+
+
+.selected {
+  color: rgb(224, 252, 196);
+}
